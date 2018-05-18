@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+    <head>
+        <title>Yeeksil-Boutique</title>
+        <meta charset="utf-8" /> 
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+          <nav>
+                 <div id="logo">
+                 <img src="logo-NB-ES.jpg" />
+                     <h1>Yeeksil-Boutique</h1>
+                 </div>
+            <div id="menu">
+                <ul>
+                   <li>
+                    <a href="#">A propos</a>
+
+                    <ul>
+                      <li><a href="#">Contact</a></li>
+                      <li><a href="#">Partenaire</a></li>
+                      <li><a href="#">Actualite</a></li>
+                   
+                    </ul>
+                   </li>
+                
+                  <li>
+                    <a href="Produits.html">Produits</a>
+                  </li>
+                  <li>
+                    <a href="Commandes.html">Commandes</a>
+                  </li>
+                </ul>
+             </div>
+          </nav>
+          
+          <br><br>
+    <div id="content">
+         <div id="header">
+              
+          </div>  
+    </div>
+
+          </body>
+  </html>
